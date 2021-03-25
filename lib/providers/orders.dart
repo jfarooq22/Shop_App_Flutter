@@ -1,6 +1,5 @@
 import 'dart:convert';
 
-import 'package:Shop_App/screens/cart_screen.dart';
 import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 

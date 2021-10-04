@@ -1,10 +1,11 @@
 # Shop_App
 
-A new Flutter project.
+A simple shop app built on flutter using firebase to simulate backend APIs.
+Used URLs instead of the firebase SDK to simulate API endpoints.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Run flutter pub get to install dependencies
 
 A few resources to get you started if this is your first Flutter project:
 
